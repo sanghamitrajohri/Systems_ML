@@ -1,4 +1,4 @@
-# SyLLM Optimization Projects
+# LLM Optimization Projects
 
 Welcome to my repository, which showcases various projects focused on optimizing large language models (LLMs) for efficient inference and performance profiling.
 Projects Overview
